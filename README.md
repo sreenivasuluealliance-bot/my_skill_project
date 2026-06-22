@@ -1,2 +1,2 @@
-# my_skill_project
-Claude Code Skills Practice Project
+# My Skill Project
+Created via Claude Cowork MCP!
